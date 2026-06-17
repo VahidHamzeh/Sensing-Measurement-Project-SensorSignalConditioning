@@ -1,3 +1,8 @@
+![Circuit Design](https://img.shields.io/badge/Design-AFE_Instrumentation-blue?style=for-the-badge&logo=microchip&logoColor=white)
+![Simulation](https://img.shields.io/badge/Simulation-LTSpice-red?style=for-the-badge&logo=siemens&logoColor=white)
+![Analysis](https://img.shields.io/badge/Analysis-Signal_Conditioning-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
+
 # Sensor Signal Conditioning & Measurement Project
 
 This repository contains the design, simulation, and implementation files for the **Sensors and Measurement Systems** course project at **Sharif University of Technology** (Fall 2025).
